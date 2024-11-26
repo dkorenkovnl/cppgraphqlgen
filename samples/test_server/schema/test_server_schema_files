@@ -1,0 +1,5 @@
+TestServerSchema.cpp
+TelemetryObject.cpp
+QueryObject.cpp
+SubscriptionObject.cpp
+MutationObject.cpp

@@ -7,6 +7,7 @@ add_subdirectory(client)
 add_subdirectory(learn)
 add_subdirectory(today)
 add_subdirectory(validation)
+add_subdirectory(test_server)
 
 if(GRAPHQL_BUILD_HTTP_SAMPLE)
   find_package(Boost QUIET)
